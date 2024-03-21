@@ -4,7 +4,7 @@ public class Lab2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String fullname = "weichih Lu";
+		String fullname = "Hello World";
 		System.out.printf(fullname);
 		System.out.print(" ");
 		System.out.println(fullname.length());
